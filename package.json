@@ -1,0 +1,12 @@
+{
+  "name": "pipeline-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"We're going to fake running tests and just exit 0\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
